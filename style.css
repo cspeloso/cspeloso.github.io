@@ -1,9 +1,11 @@
 body{
-    background-color:rgb(51, 45, 45);
+    background-color:rgb(51, 45, 45) !important;
 }
 
 .main-container{
-
+    width:75%;
+    border:1px solid red;
+    text-align:center;
 }
 .main-header{
     color:rgb(197, 189, 189);
