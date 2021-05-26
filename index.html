@@ -1,9 +1,25 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <link rel='style.css' type='text/css' />
+        <style>
+            body{
+                background-color:rgb(51, 45, 45);
+            }
+
+            .main-header{
+                color:rgb(197, 189, 189);
+            }
+            .main-description{
+                color:rgb(197, 189, 189);
+            }
+        </style>
         <script src='https://code.jquery.com/jquery-3.6.0.min.js' type='text/javascript'></script>
-        <script src='script.js' type='text/javascript'></script>
+        <script type='text/javascript'>
+            $ = jQuery;
+
+            $('.main-header').fadeIn();
+            $('.main-description').fadeIn();
+        </script>
     </head>
     <body>
         <h1 class='main-header'>Testing</h1>
