@@ -1,18 +1,12 @@
-body{
-    background-color:rgb(51, 45, 45) !important;
+body {
+    background: #0e0e0e;
+    color: #e1e1e1;
+    font-family: Verdana;
 }
-
-.main-container{
-    width:75%;
-    margin:0 auto;
-    border:1px solid red;
-    text-align:center;
-}
-.main-header{
-    color:rgb(197, 189, 189);
-    text-align:center;
-}
-.main-description{
-    color:rgb(197, 189, 189);
-    text-align:center;
+a, a:visited { 
+    color: #e1e1e1;
+} 
+.content {
+    margin-top: 15%;
+    text-align: center;
 }
