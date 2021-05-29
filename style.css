@@ -11,6 +11,10 @@ a, a:visited {
     text-align: center;
 }
 
+.content p{
+    margin-bottom:30px;
+}
+
 .portfolio-link{
     text-decoration: none;
     font-weight: 600;
@@ -19,6 +23,7 @@ a, a:visited {
     padding: 5px 15px;
     background-color: white;
     color: #0e0e0e !important;
+    margin-top:15px;
 }
 
 .portfolio-link:hover{
