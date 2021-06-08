@@ -30,3 +30,11 @@ a, a:visited {
     background-color: #a6a6a6;
     border: 1px solid #a6a6a6;
 }
+
+.repos-link{
+    font-weight:bold;
+    text-decoration:none;
+}
+    .repos-link{
+        color:#636363;
+    }
