@@ -35,6 +35,6 @@ a, a:visited {
     font-weight:bold;
     text-decoration:none;
 }
-    .repos-link{
+    .repos-link:hover{
         color:#636363;
     }
